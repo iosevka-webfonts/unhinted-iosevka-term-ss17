@@ -1,4 +1,4 @@
-# Unhinted Iosevka Term SS17 WebFont 27.0.2
+# Unhinted Iosevka Term SS17 WebFont 27.1.0
 
 ## How to use
 
